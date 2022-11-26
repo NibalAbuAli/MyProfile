@@ -1,0 +1,60 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+     background-image: url(pic.jpg);
+}
+h2{
+    color:rgba(46, 7, 7, 0.537);
+    font-weight: bold;
+    margin-left: 3%;
+}
+h1{
+   margin: auto;
+    text-align: center;
+    font-weight: bold;
+color:rgba(46, 7, 7, 0.675)
+}
+p{
+    font: size 50px;
+    font-style: italic;
+    color:black;
+   font-weight: bold;
+   margin-left: 3%;
+}
+#light-layer{
+    width: 85%;
+    height: 650px;
+    background-color:rgba(0, 0, 0, 0.204);
+    margin:auto;
+    margin-top: 3%;
+    border-radius: 10px;
+    
+}
+.photo{
+    width:50%;
+    margin-left: 3%;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: solid 4px rgba(46, 7, 7, 0.507);
+}
+.About{
+    
+margin: left 3%; 
+}
+.right.block{
+    float:right;
+    margin-top: -470px;
+   
+}
+button{
+    color:rgba(216, 191, 216, 0.766);
+    background-color: black;
+    width: 90px;
+    height: 30px;
+    border-radius: 3px
+    border 0px;
+}
